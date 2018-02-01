@@ -1,0 +1,15 @@
+{
+  "name": "postman-to-swagger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sinchang <sinchangwen@gmail.com> (http://sinchang.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "api-spec-transformer": "0.2.6"
+  }
+}
